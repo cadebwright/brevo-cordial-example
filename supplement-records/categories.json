@@ -1,0 +1,423 @@
+[
+    {
+      "ID": "PC",
+      "objectID": "PC",
+      "categoryName": "Postcards",
+      "productSticker": "",
+      "stickerSubheading": "",
+      "headingSticker": "",
+      "subheadLong": [
+        "Custom postcards designed to make a lasting impression.",
+        "Branded postcards with no order minimums.",
+        "Your message, beautifully printed and delivered fast."
+      ],
+      "subheadMedium": [
+        "Custom designs, no minimums, and full-color printing.",
+        "No minimum orders. High-quality materials included.",
+        "Postcards for every business need."
+      ],
+      "subheadShort": [
+        "Custom postcards, made simple.",
+        "Quick, custom marketing.",
+        "Branded postcards, fast."
+      ],
+      "headingLong": [
+        "Simplify Your Marketing with Custom Postcards",
+        "Branded Postcards for Promotions, Events, and Business",
+        "Your Message, Your Postcards, Designed to Impress"
+      ],
+      "headingMedium": [
+        "Custom Postcards Made Easy",
+        "Branded Postcards Simplified",
+        "Print Marketing That Stands Out"
+      ],
+      "headingShort": [
+        "Custom Postcard Solutions",
+        "Branded Postcards, Fast",
+        "Marketing Made Simple"
+      ],
+      "body": [
+        "Elevate your marketing with premium custom postcards. Full-color printing on high-quality cardstock ensures your message stands out.",
+        "Easily personalize your postcards with your logo, custom messaging, and stunning graphics. No minimums required for flexible ordering.",
+        "Make your brand unforgettable with professionally printed postcards. Whether for promotions, client outreach, or event invitations, our flexible ordering options fit your needs."
+      ],
+      "saleDisclaimer": "",
+      "productionTime": "5 days",
+      "type": "categoryInfo",
+      "categoryImages": [],
+      "callToActions": [
+        "Shop Custom Postcards",
+        "Design Your Postcards",
+        "Order Now",
+        "Explore Options"
+      ],
+      "urls": {
+        "mcRedirectURL": "https://www.markful.com/mcredirect?categoryId=841326",
+        "categoryURL": "https://www.markful.com/postcards-841326",
+        "landingURL": "https://www.markful.com/mcredirect?categoryId=841326"
+      }
+    },
+    {
+      "ID": "AP",
+      "objectID": "AP",
+      "categoryName": "Apparel",
+      "productSticker": "",
+      "stickerSubheading": "",
+      "headingSticker": "",
+      "subheadLong": [
+        "Custom apparel designed for your team, fast and flexible.",
+        "Personalized apparel with no order minimums.",
+        "Your brand on shirts, sweaters, and more in just days."
+      ],
+      "subheadMedium": [
+        "Custom styles, no minimums, fast delivery.",
+        "No minimum orders. Add your logo for free.",
+        "Apparel solutions for every business."
+      ],
+      "subheadShort": [
+        "Custom apparel, made simple.",
+        "Quick, custom branding.",
+        "Custom apparel solutions."
+      ],
+      "headingLong": [
+        "Simplify Your Branding with Custom Apparel",
+        "Custom Apparel for Teams, Events, and Businesses",
+        "Your Brand, Your Apparel, Delivered Fast"
+      ],
+      "headingMedium": [
+        "Your Brand, Your Style Made Easy",
+        "Branded Apparel Simplified",
+        "Custom Apparel with Fast Turnaround"
+      ],
+      "headingShort": [
+        "Apparel",
+        "Branded Apparel Made Easy",
+        "Custom Clothing Options"
+      ],
+      "body": [
+        "Elevate your brand with custom apparel designed to impress. Choose from top-quality shirts, bags, and hoodies to fit your style.",
+        "Easily add your logo to premium apparel choices like polos, hats, and headwear, with sizes up to 4XL available. Get fast shipping in just 2-5 business days.",
+        "Make your brand unforgettable with versatile, custom apparel that works as hard as you do. From sleek polos to eye-catching hoodies and bags, get exactly what you need—no minimums."
+      ],
+      "saleDisclaimer": "",
+      "productionTime": "5 days",
+      "type": "categoryInfo",
+      "categoryImages": [],
+      "callToActions": [
+        "Shop Custom Apparel",
+        "Design Your Apparel",
+        "Order Now",
+        "Explore Options"
+      ],
+      "urls": {
+        "mcRedirectURL": "https://www.markful.com/mcredirect?categoryId=841107",
+        "categoryURL": "https://www.markful.com/apparel-841107",
+        "landingURL": "https://www.markful.com/mcredirect?categoryId=841107"
+      }
+    },
+    {
+      "ID": "CAC",
+      "objectID": "CAC",
+      "categoryName": "Calendar Pads",
+      "productSticker": "40% Off",
+      "stickerSubheading": "Discount pre-applied to products.",
+      "headingSticker": "On Sale",
+      "subheadLong": [
+        "Keep your brand visible all year with custom calendar pads.",
+        "Marketing that sticks around for 365 days.",
+        "Daily brand exposure with personalized calendar pads."
+      ],
+      "subheadMedium": [
+        "Year-long exposure for your brand, simplified.",
+        "Custom calendar pads for every business.",
+        "Promote your brand every day with custom designs."
+      ],
+      "subheadShort": [
+        "Marketing that lasts all year.",
+        "Year-round visibility.",
+        "Daily marketing, made simple."
+      ],
+      "headingLong": [
+        "Custom Calendar Pads for Continuous Marketing",
+        "Keep Your Brand Front-and-Center with Calendar Pads",
+        "Year-Round Promotion with Personalized Calendar Pads"
+      ],
+      "headingMedium": [
+        "Year-Long Branding with Calendar Pads",
+        "Boost Your Business with Custom Calendars",
+        "Custom Calendar Pads for Easy Promotion"
+      ],
+      "headingShort": [
+        "Custom Calendar Pads",
+        "Branded Calendar Solutions",
+        "Year-Round Calendars"
+      ],
+      "body": [
+        "Keep your brand front and center all year long with custom calendar pads. These practical, everyday tools keep your name in constant view of your clients—easy to distribute and impossible to ignore.",
+        "Make your marketing last with personalized calendar pads designed to provide daily exposure. Ideal for offices, conventions, and client gifts, these pads create a year-round connection with your audience.",
+        "Elevate your brand visibility with calendar pads that deliver consistent impressions. From front desks to trade shows, these take-home promos ensure your brand remains a daily essential in the lives of your clients."
+      ],
+      "saleDisclaimer": "",
+      "productionTime": "5 days",
+      "type": "categoryInfo",
+      "categoryImages": [],
+      "callToActions": [
+        "Shop Calendar Pads",
+        "Order Yours Today",
+        "Explore Calendar Designs"
+      ],
+      "urls": {
+        "mcRedirectURL": "https://www.markful.com/mcredirect?categoryId=841421&refine=Product%20Type:Standard%20Pad%20Magnet|Product%20Type:Peel%20and%20Stick%20Pad%20Magnet|Product%20Type:House%20Pad%20Magnet",
+        "categoryURL": "https://www.markful.com/calendars-841421",
+        "landingURL": "https://www.markful.com/mcredirect?categoryId=841421&refine=Product%20Type:Standard%20Pad%20Magnet|Product%20Type:Peel%20and%20Stick%20Pad%20Magnet|Product%20Type:House%20Pad%20Magnet"
+      }
+    },
+    {
+      "ID": "CACP",
+      "objectID": "CACP",
+      "categoryName": "Peel & Stick Calendar Pads",
+      "productSticker": "",
+      "stickerSubheading": "",
+      "headingSticker": "",
+      "subheadLong": [
+        "Make marketing effortless with custom peel & stick calendars.",
+        "Your business details in your client's hands all year.",
+        "Simple, stick-on marketing that lasts."
+      ],
+      "subheadMedium": [
+        "Peel, stick, and showcase your business.",
+        "Custom peel & stick calendars for year-round exposure.",
+        "Marketing tools that stick around."
+      ],
+      "subheadShort": [
+        "Marketing that sticks.",
+        "Peel & stick marketing.",
+        "Year-round marketing tool."
+      ],
+      "headingLong": [
+        "Effortless Marketing with Peel & Stick Calendars",
+        "Boost Your Brand with Peel & Stick Schedules",
+        "Custom Calendars for Lasting Marketing Impact"
+      ],
+      "headingMedium": [
+        "Stick with Year-Round Visibility",
+        "Peel & Stick Marketing Simplified",
+        "Long-Term Marketing Made Easy"
+      ],
+      "headingShort": [
+        "Peel & Stick Pads",
+        "Custom Marketing Calendars",
+        "Peel & Stick Solutions"
+      ],
+      "body": [
+        "Stay top-of-mind with clients by giving them a marketing tool they'll use every day.",
+        "Make an impression that lasts with custom Peel & Stick calendar pads. Perfect for open houses, client meetings, or direct mail campaigns, they offer year-long brand visibility with minimal effort.",
+        "Turn everyday moments into marketing opportunities. Peel & Stick calendars stick around—literally—offering your clients a convenient way to keep your details on hand. Attach your business card and start growing your referrals today."
+      ],
+      "saleDisclaimer": "",
+      "productionTime": "3 days",
+      "type": "categoryInfo",
+      "categoryImages": [],
+      "callToActions": [
+        "Shop Peel & Stick Calendars",
+        "Order Your Custom Pads",
+        "Start Customizing"
+      ],
+      "urls": {
+        "mcRedirectURL": "https://www.markful.com/mcredirect?categoryId=841421&refine=Product%20Type:Peel%20and%20Stick%20Pad%20Magnet",
+        "categoryURL": "https://www.markful.com/calendars-841421",
+        "landingURL": "https://www.markful.com/mcredirect?categoryId=841421&refine=Product%20Type:Peel%20and%20Stick%20Pad%20Magnet"
+      }
+    },
+    {
+      "ID": "CA",
+      "objectID": "CA",
+      "categoryName": "Calendars",
+      "productSticker": "20% Off",
+      "stickerSubheading": "Discount pre-applied to products.",
+      "headingSticker": "On Sale",
+      "subheadLong": [
+        "Your brand on display every day with custom calendars.",
+        "Stay visible with year-round marketing tools.",
+        "Promote your business for an entire year."
+      ],
+      "subheadMedium": [
+        "Keep your brand top-of-mind all year.",
+        "Daily brand exposure for your business.",
+        "Simple, effective marketing for every day."
+      ],
+      "subheadShort": [
+        "365 days of marketing.",
+        "Daily marketing exposure.",
+        "Year-round brand visibility."
+      ],
+      "headingLong": [
+        "Daily Brand Exposure with Custom Calendars",
+        "Put Your Brand Front and Center with Custom Calendars",
+        "Year-Round Marketing with Personalized Calendars"
+      ],
+      "headingMedium": [
+        "Brand Visibility Made Simple",
+        "Custom Calendars to Promote Your Business",
+        "Year-Round Marketing Tools"
+      ],
+      "headingShort": [
+        "2025 Calendars",
+        "Branded Calendar Solutions",
+        "Personalized Calendars"
+      ],
+      "body": [
+        "Transform your marketing with custom calendars designed to build daily brand awareness",
+        "Be the agent your clients remember all year long with custom calendars. Perfect for fridge doors and office desks, these calendars keep your name and contact info in constant view, turning glances into leads.",
+        "Secure prime real estate on your clients' walls and refrigerators. Custom calendars provide continuous exposure, throughout the year.A smart, cost-effective way to stay visible."
+      ],
+      "saleDisclaimer": "",
+      "productionTime": "3 days",
+      "type": "categoryInfo",
+      "categoryImages": [],
+      "callToActions": [
+        "Shop Custom Calendars",
+        "Explore Designs",
+        "Order Today"
+      ],
+      "urls": {
+        "mcRedirectURL": "https://www.markful.com/mcredirect?categoryid=841421",
+        "categoryURL": "https://www.markful.com/calendars-841421",
+        "landingURL": "https://www.markful.com/calendars-and-schedules"
+      }
+    },
+    {
+      "ID": "BB",
+      "objectID": "BB",
+      "categoryName": "Baseball Schedules",
+      "productSticker": "On Sale",
+      "stickerSubheading": "Discount pre-applied to products.",
+      "headingSticker": "On Sale",
+      "subheadLong": [
+        "Be a home run with your clients all season long",
+        "Stay on your customers' minds with custom schedules",
+        "Marketing that scores every game day"
+      ],
+      "subheadMedium": [
+        "Season-long engagement with branded schedules",
+        "Custom baseball schedules for lasting connections",
+        "Boost your visibility with sports marketing"
+      ],
+      "subheadShort": [
+        "Baseball season is here",
+        "Game day marketing solution",
+        "Seasonal marketing made easy",
+        "Sports branding simplified"
+      ],
+      "headingLong": [
+        "Custom Baseball Schedules to Boost Visibility",
+        "Hit a Marketing Home Run with Baseball Schedules",
+        "Stay on Track with Personalized Sports Calendars"
+      ],
+      "headingMedium": [
+        "2025 Custom Baseball Schedules",
+        "Hit Marketing Goals This Season",
+        "Game Day Marketing Made Simple",
+        "Boost Your Brand with Baseball Schedules"
+      ],
+      "headingShort": [
+        "2025 Baseball",
+        "Custom Sports Marketing",
+        "Branded Baseball Solutions"
+      ],
+      "body": [
+        "Boost your brand visibility all season with custom schedules designed to stick.",
+        "Stay top-of-mind with custom baseball schedules that keep your name visible all season.",
+        "Hit a marketing home run with baseball schedules your clients will love. Distribute them at open houses or mail them to prospects for season-long brand exposure. Each game day becomes another opportunity to build recognition and referrals.",
+        "Score big with clients by offering custom schedules that showcase your brand. Easy to distribute and designed for visibility, these schedules put your contact info in front of fans every week. A simple, effective way to stay connected with your community."
+      ],
+      "saleDisclaimer": "",
+      "productionTime": "3 days",
+      "type": "categoryInfo",
+      "categoryImages": [],
+      "callToActions": [
+        "Shop Baseball Schedules",
+        "Customize Your Marketing",
+        "Order Now"
+      ],
+      "urls": {
+        "mcRedirectURL": "https://www.markful.com/baseball",
+        "categoryURL": "https://www.markful.com/baseball",
+        "landingURL": "https://www.markful.com/baseball"
+      }
+    },
+    {
+      "ID": "SN",
+      "objectID": "SN",
+      "categoryName": "Signs",
+      "productSticker": "",
+      "stickerSubheading": "",
+      "headingSticker": "",
+      "subheadLong": [
+        "High-quality signs to make your brand stand out.",
+        "Custom signs for effective business promotion.",
+        "Visibility and professionalism at every event."
+      ],
+      "subheadMedium": [
+        "Professional signs at low cost.",
+        "High-impact signs for your brand.",
+        "Customized signs to elevate your business."
+      ],
+      "subheadShort": [
+        "Signs for every occasion.",
+        "High-impact branding.",
+        "Custom sign solutions."
+      ],
+      "headingLong": [
+        "Custom Signs to Elevate Your Business",
+        "High-Quality Signs for Maximum Impact",
+        "Brand Visibility with Custom Signage"
+      ],
+      "headingMedium": [
+        "Make an Impression with Custom Signs",
+        "Professional Branding with Custom Signs",
+        "Signage Solutions for Every Need"
+      ],
+      "headingShort": ["Custom Signs", "Branded Signs", "Sign Solutions"],
+      "body": [
+        "Get noticed with high-impact custom signs that showcase your listings and brand.",
+        "Make your properties stand out with custom signage. Built to last, these signs create a lasting impression on potential buyers.",
+        "Turn heads and generate leads with custom real estate signs that get results. From yard signs to directional signs, every sign is crafted to amplify your brand’s visibility."
+      ],
+      "saleDisclaimer": "",
+      "productionTime": "3 days",
+      "type": "categoryInfo",
+      "categoryImages": [],
+      "callToActions": [
+        "Shop Signs",
+        "Design Your Custom Signs",
+        "Explore Options"
+      ],
+      "urls": {
+        "mcRedirectURL": "https://www.markful.com/mcredirect?categoryId=840885",
+        "categoryURL": "https://www.markful.com/custom-real-estate-signs-and-frames",
+        "landingURL": "https://www.markful.com/mcredirect?categoryId=840885"
+      }
+    },
+    {
+      "ID": "SHIPPING",
+      "objectID": "SHIPPING",
+      "categoryName": "Shipping",
+      "productSticker": "",
+      "stickerSubheading": "",
+      "headingSticker": "",
+      "subheadLong": [""],
+      "subheadMedium": [""],
+      "subheadShort": [""],
+      "headingLong": [""],
+      "headingMedium": [""],
+      "headingShort": [""],
+      "body": [""],
+      "saleDisclaimer": "",
+      "productionTime": "",
+      "type": "categoryInfo",
+      "categoryImages": [],
+      "callToActions": [""]
+    }
+  ]
+  
